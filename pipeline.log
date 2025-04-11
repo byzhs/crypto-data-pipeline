@@ -1,0 +1,16 @@
+2025-04-11 16:26:49,931 - INFO - Pipeline started.
+2025-04-11 16:26:49,941 - INFO - Historical CSV loaded.
+2025-04-11 16:26:50,037 - INFO - Live prices fetched from API.
+2025-04-11 16:26:50,328 - INFO - Excel report generated.
+2025-04-11 16:26:50,335 - INFO - Bitcoin chart saved.
+2025-04-11 16:32:57,185 - INFO - Pipeline started.
+2025-04-11 16:32:57,195 - INFO - Historical CSV loaded.
+2025-04-11 16:32:57,530 - INFO - Live prices fetched from API.
+2025-04-11 16:32:58,198 - INFO - Excel report generated.
+2025-04-11 16:32:58,611 - INFO - Bitcoin chart saved.
+2025-04-11 16:34:35,256 - INFO - Pipeline started.
+2025-04-11 16:34:35,267 - INFO - Historical CSV loaded.
+2025-04-11 16:34:35,545 - INFO - Live prices fetched from API.
+2025-04-11 16:34:36,148 - INFO - Excel report generated.
+2025-04-11 16:34:36,538 - INFO - Bitcoin chart saved.
+2025-04-11 16:34:36,770 - INFO - Comparison chart saved.
